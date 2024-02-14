@@ -1,0 +1,5 @@
+blank_issues_enabled: false # force the usage of a template
+contact_links:
+  - name: Something Else ❔
+    url: https://discord.gg/HSbp5VjBjy
+    about: Come chat with us on the Spyke Social Community Discord
