@@ -5,3 +5,4 @@ The rapid engineering team for your next big thing.
 Check us out:
 - ⚡ [Velocilabs](https://velocilabs.com)
 - 🗿 [Spyke Social](https://spyke.social)
+- 🏢 [LinkedIn](https://www.linkedin.com/company/velocilabs/)
